@@ -41,7 +41,7 @@ body {
     opacity: 0;
 }
 .slide.active {
-    flex: 2;
+    flex: 10;
     transition: all 600ms ease-in-out;
 }
 
